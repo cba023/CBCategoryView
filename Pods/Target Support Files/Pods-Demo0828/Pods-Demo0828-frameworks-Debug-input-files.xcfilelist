@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Demo0828/Pods-Demo0828-frameworks.sh
+${PODS_ROOT}/Reveal-SDK/RevealServer/iOS/RevealServer.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
+${BUILT_PRODUCTS_DIR}/YYKit/YYKit.framework
